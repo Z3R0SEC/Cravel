@@ -32,7 +32,7 @@ Free Email Sender project! WrongFul usage of this script is illegal. i will not 
 * Internet Connection
 
 ## INSTALLATION [Termux] :
-* ` git clone https://github.com/Z3R0SEC/craven `
+* ` git clone https://github.com/Z3R0SEC/Craven `
 * ` cd craven `
 * ` pip install requests `
 * ` python main.py `
